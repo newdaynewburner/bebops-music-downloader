@@ -1,0 +1,2 @@
+# Bebop's Music Downloader
+A tool for downloading music from YouTube in MP3 format. It can download either individual songs (from videos) or entire albums (from playlists), and supports the adding of tags to the downloaded MP3 files. Tag data can be retrieved and entered automatically, manually, or not at all. Oriented to people who want to build well organized and nicely tagged music collections.

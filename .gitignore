@@ -1,0 +1,10 @@
+# Project
+TODO.txt
+*.m4a
+*.mp3
+
+# Python
+*.pyc
+lib/*.pyc
+__pycache__/
+lib/__pycache__/
