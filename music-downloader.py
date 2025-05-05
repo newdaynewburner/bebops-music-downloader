@@ -170,7 +170,7 @@ if __name__ == "__main__":
 	debug = False
 	quiet = False
 	config_file = os.path.expanduser("~/.config/music-downloader/config.ini")
-d	outdir = None # From config
+	outdir = None # From config
 	multithreading = None # From config
 	tag_mode = None # From config
 	video_url = None
@@ -254,7 +254,7 @@ d	outdir = None # From config
 	if multithreading == None:
 		multithreading = config["DEFAULT"]["multithreading"]
 		if multithreading == "yes":
-u			multithreading = True
+			multithreading = True
 		else:
 			multithreading = False
 	if tag_mode == None:
